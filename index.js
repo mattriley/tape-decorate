@@ -1,2 +1,2 @@
 const decorate = require('./decorate');
-module.exports = decorate([]);
+module.exports = decorate({});
