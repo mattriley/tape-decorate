@@ -1,6 +1,6 @@
 {
     "name": "tape-decorate",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "description": "Decorate your tape tests for greater extensibility",
     "main": "index.js",
     "keywords": [
