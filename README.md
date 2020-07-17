@@ -6,7 +6,9 @@ Ensures `tape.only` and `tape.skip` are also decorated to preserve behaviour.
 
 ## Install
 
-`npm install tape-decorate --save-dev`
+```
+npm install tape-decorate --save-dev
+```
 
 ## Usage
 
